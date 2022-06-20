@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-	int main(){
+	int main()
+	{
 		int num1 [ 5 ] , num2 [ 5 ] , i , equals = 0;
 		
 		// Input of 5 Integers of first Array
@@ -8,6 +9,8 @@ using namespace std;
 		for ( i = 0; i < 5; i++ ){
 			cin >> num1 [ i ];
 		}
+		
+	
 		
 		// Input of 5 Integers of Second Array
 		cout << "Please Enter Five Integrs for the Second Array " << '\n';
