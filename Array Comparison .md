@@ -25,7 +25,8 @@ using namespace std;
 		}
 		
 		cout << "\n The Values in Second Array are ";
-		for ( i = 0; i < 5; i++ ){
+		for ( i = 0; i < 5; i++ )
+	{
 			cout << "\t" << num2 [ i ];
 		}
 		
