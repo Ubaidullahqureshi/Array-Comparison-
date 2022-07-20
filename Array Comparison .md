@@ -15,7 +15,8 @@ using namespace std;
 		
 		// Input of 5 Integers of Second Array
 		cout << "Please Enter Five Integrs for the Second Array " << '\n';
-		for ( i = 0; i < 5; i++ ){
+		for ( i = 0; i < 5; i++ )
+				   {
 			cin >> num2 [ i ];
 		}
 		
