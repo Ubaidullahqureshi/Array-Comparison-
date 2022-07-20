@@ -6,8 +6,9 @@ using namespace std;
 		
 		// Input of 5 Integers of first Array
 		cout << "Please Enter Five Integrs for the First Array " << '\n';
-		for ( i = 0; i < 5; i++ ){
-			cin >> num1 [ i ];
+		for ( i = 0; i < 5; i++ )
+				   {
+						cin >> num1 [ i ];
 		}
 		
 	
